@@ -63,7 +63,7 @@
     "bunyan": "1.8.15",
     "camelcase": "6.2.0",
     "chrome-launcher": "0.13.4",
-    "debounce": "1.2.0",
+    "debounce": "1.2.1",
     "decamelize": "5.0.0",
     "es6-error": "4.1.1",
     "event-to-promise": "0.8.0",
